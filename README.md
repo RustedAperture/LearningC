@@ -9,5 +9,6 @@ Each Challenge/task will be in it own folder.
 ## Completed Tasks
 
 - [100 Doors](https://rosettacode.org/wiki/100_doors)
+- [Hello World Graphical](https://rosettacode.org/wiki/Hello_world/Graphical)
 - [Simple Windowed Application](https://rosettacode.org/wiki/Simple_windowed_application)
 - [Window Creation](https://rosettacode.org/wiki/Window_creation)
